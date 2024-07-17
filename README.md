@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![profile](./assets/h4ck3r.gif)
 <!--
 **JohnTwiiX/JohnTwiiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
